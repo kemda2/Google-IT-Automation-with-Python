@@ -1,4 +1,4 @@
-![5](https://github.com/kemda2/Google-Courses/assets/19648132/b4235cad-00a8-44d4-ad7e-aeac6a5871e7)
+![5](https://github.com/kemda2/Google-IT-Automation-with-Python/assets/19648132/1214b73e-7b0a-4280-a625-ec72f76b2415)
 
 
 ## [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation)
