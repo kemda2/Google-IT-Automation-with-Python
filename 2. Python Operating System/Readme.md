@@ -1,4 +1,5 @@
-![2](https://github.com/kemda2/Google-Courses/assets/19648132/a0c7c18c-b2f1-43ad-b38a-f65671fc07f7)
+![Module 2](https://github.com/kemda2/Google-IT-Automation-with-Python/assets/19648132/5574c70e-d7f4-4bd5-8788-06934370af95)
+
 
 ## [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system?specialization=google-it-automation)
 
