@@ -1,1 +1,1 @@
-![a](https://github.com/kemda2/Google-Courses/assets/19648132/a8b771e6-9544-4392-8426-035601c207d7)
+![a](https://github.com/kemda2/Google-IT-Automation-with-Python/assets/19648132/fc6f14b5-7dbb-4b5b-9bae-f5f89680edb2)
