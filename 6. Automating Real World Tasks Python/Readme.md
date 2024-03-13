@@ -1,4 +1,4 @@
-![6](https://github.com/kemda2/Google-Courses/assets/19648132/4c1e9971-613a-45b6-bb27-783127aa5d1a)
+![6](https://github.com/kemda2/Google-IT-Automation-with-Python/assets/19648132/f71f9397-e4bc-4dfa-9870-501499294c31)
 
 
 ## [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python?specialization=google-it-automation)
