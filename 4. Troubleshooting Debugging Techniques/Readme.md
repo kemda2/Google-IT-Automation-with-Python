@@ -1,4 +1,5 @@
-![4](https://github.com/kemda2/Google-Courses/assets/19648132/e9c4c31d-24df-420a-bb19-e803e58edfa4)
+![4](https://github.com/kemda2/Google-IT-Automation-with-Python/assets/19648132/8449c95d-c470-438d-bb45-9f711239373b)
+
 
 ## [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
 
